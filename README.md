@@ -3,7 +3,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=tschni&color=red)
 
 ### 📫 How to reach me
-[![Telegram](https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=@tschni&color=26A5E4&longCache=true&style=for-the-badge)](https://t.me/tschni)
 [![Mail](https://img.shields.io/static/v1?logo=mail.ru&label=Mail&message=github@schnittger.email&color=lightgray&longCache=true&style=for-the-badge)](mailto:tobias@schnittger-it.de)
 
 ### ⚡ Tech Stack
