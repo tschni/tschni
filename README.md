@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=tschni&color=red)
 
 ### 📫 How to reach me
-[![Mail](https://img.shields.io/static/v1?logo=mail.ru&label=Mail&message=github@schnittger.email&color=lightgray&longCache=true&style=for-the-badge)](mailto:tobias@schnittger-it.de)
+[![Mail](https://img.shields.io/static/v1?logo=mail.ru&label=Mail&message=github@schnittger.email&color=lightgray&longCache=true&style=for-the-badge)](mailto:github@schnittger.email)
 
 ### ⚡ Tech Stack
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&logo=php&logoColor=FFFFFF&color=777BB4&longCache=true&style=for-the-badge)](https://www.php.net/)
